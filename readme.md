@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content:center;">
-<img src="/assets/img/DEVDREZA - nameAtSide copy.png" alt="DEVDREZA Logo" style="max-width:200px; height:auto;">
+<img src="/assets/img/DEVDREZA - nameAtSide copy.png" alt="DEVDREZA Logo" style="max-width:460px; height:auto;">
 </div>
 
 # DEVDREZA
